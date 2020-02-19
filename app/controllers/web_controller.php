@@ -53,7 +53,11 @@
         function myprofile(){
 
         }
-
+		
+		function ejemplo(){
+			$this->layout = "ejemplo";
+			
+		}
 
         //how-itworks.html*
 		//about.html*
